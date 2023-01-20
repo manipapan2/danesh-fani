@@ -1,3 +1,5 @@
+@import url(fontiran.css);
+
 * {
   border-style: none;
   box-sizing: border-box;
@@ -5,6 +7,7 @@
   margin: 0;
   direction: rtl;
 }
+
 
 *:focus {
   outline: none;
@@ -150,6 +153,7 @@ nav {
 
 .types p{
   margin-bottom: 0;
+  
 }
 
 
@@ -225,6 +229,7 @@ nav {
   font-weight: bolder;
   /* color: rgb(168, 168, 168); */
   color: rgb(214, 214, 214);
+  font-family: IRANSans;
 }
 
 .boro{
@@ -300,6 +305,7 @@ nav {
     rgba(6, 24, 44, 0.65) 0px 4px 6px -1px,
     rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
   box-shadow: 20px 20px #f5debf;
+  font-family: IRANSans;
 }
 
 .tozih:hover {
@@ -455,6 +461,7 @@ nav {
   background-color: rgba(153, 2, 235, 1);
   border-radius: 15px;
   font-size: 17;
+  font-family: IRANSans;
 }
 
 .pia #p2{
@@ -490,6 +497,7 @@ nav {
   border-bottom-right-radius: 15px;
   color: rgb(255, 255, 255);
   backface-visibility: hidden;
+  font-family: IRANSans;
 }
 
 .dokmekam {
